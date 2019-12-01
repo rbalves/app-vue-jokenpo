@@ -66,13 +66,13 @@
       text-center
     >
       <v-flex xs12>
-          <v-btn color="primary" dark large style="margin: 1%" @click="clickButtonChoice('Pedra')" :disabled="disableButton">
+          <v-btn color="primary" large style="margin: 1%" @click="clickButtonChoice('Pedra')" :disabled="disableButton">
             Pedra
           </v-btn>
-          <v-btn color="error" dark large style="margin: 1%" @click="clickButtonChoice('Papel')" :disabled="disableButton">
+          <v-btn color="error" large style="margin: 1%" @click="clickButtonChoice('Papel')" :disabled="disableButton">
             Papel
           </v-btn>
-          <v-btn color="info" dark large style="margin: 1%" @click="clickButtonChoice('Tesoura')" :disabled="disableButton">
+          <v-btn color="info" large style="margin: 1%" @click="clickButtonChoice('Tesoura')" :disabled="disableButton">
             Tesoura
           </v-btn>
       </v-flex>
@@ -83,7 +83,7 @@
       text-center
     >
       <v-flex xs12>
-          <v-btn color="success" dark  x-large style="margin: 1%" :disabled="disableButtonNewGame" @click="newGame()">
+          <v-btn color="success"  x-large style="margin: 1%" :disabled="disableButtonNewGame" @click="newGame()">
             Novo jogo
           </v-btn>
       </v-flex>
