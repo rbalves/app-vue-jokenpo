@@ -1,5 +1,11 @@
 # JokenPo
 
+# Buil tutorial Github Pages
+https://medium.com/@Roli_Dori/deploy-vue-cli-3-project-to-github-pages-ebeda0705fbd
+
+# Link Game
+https://rbalves.github.io/app-vue-jokenpo
+
 ![Alt text](/src/assets/screenshot.png "JokenPo")
 
 # Getting Started
@@ -11,6 +17,3 @@ npm run serve
 
 # Prerequisites
 Node v.8.10.0
-
-# Buil tutorial Github Pages
-https://vuejs-brasil.com.br/exporte-seu-projeto-vue-para-o-github-pages/
