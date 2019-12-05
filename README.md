@@ -3,7 +3,7 @@
 # Buil tutorial Github Pages
 https://medium.com/@Roli_Dori/deploy-vue-cli-3-project-to-github-pages-ebeda0705fbd
 
-# Link Game
+# Game
 https://rbalves.github.io/app-vue-jokenpo
 
 ![Alt text](/src/assets/screenshot.png "JokenPo")
