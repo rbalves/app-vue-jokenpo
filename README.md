@@ -1,8 +1,5 @@
 # JokenPo
 
-## Tutorial Build Github Pages
-https://medium.com/@Roli_Dori/deploy-vue-cli-3-project-to-github-pages-ebeda0705fbd
-
 ## Game
 https://rbalves.github.io/app-vue-jokenpo
 
@@ -17,3 +14,6 @@ npm run serve
 
 # Prerequisites
 Node v.8.10.0
+
+## Tutorial Build Github Pages
+https://medium.com/@Roli_Dori/deploy-vue-cli-3-project-to-github-pages-ebeda0705fbd
